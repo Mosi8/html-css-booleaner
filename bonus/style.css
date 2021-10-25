@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+}
+header{
+    height: 175px;
+    background-image: url(img/pattern.png);
+    background-color: rgb(81,157,255);
+}
+
+header img{
+   height: 100px; 
+   padding-top: 80px;
+   padding-left: 5px;
+}
+main{
+    padding-left: 5px;
+}
+main h1{
+    padding-top: 10px;
+}
+
+main div{
+    color: rgb(128,128,128);
+}
+
+main span{
+    color: rgb(53,173,230);
+}
+
+#data{
+    font-size: 10px;
+}
+.img{
+    padding-top: 10px;
+}
+
+#didascalie {
+    color: black;
+    font-size: 15px;
+    padding-top: 0px;
+}
+
+#evidenziato{
+    background-color: yellow; 
+    color: black;
+}
+
+section p{
+    padding-top: 30px;
+}
+
+#elenco{
+    padding-top: 30px;
+}
+
+#tabella{
+    padding-top: 30px;
+}
+
+#colonna1{
+    width: 25%;
+}
+
+table{
+    padding-top: 25px;
+    border-collapse: collapse;
+    text-align: left;
+}
+table th{
+    background-color: rgb(42,168,229);
+    color: white;
+}
+
+table .riga{
+    background-color: rgb(178,222,242) ;
+}
+
+h5{
+    padding: 30px 0px 0px 5px;
+    color: rgb(128,128,128);
+}
+
+footer div{
+    color: white;
+}
+#pc{
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+    margin: 10px 0px 0px 5px;
+    background-image: url(img/monitor.jpg);
+}
+
+#foto2{
+    width: 200px;
+    height: 150px;
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+    margin: 10px 0px 10px 5px;
+    background-image: url(img/graph.jpg);
+}
